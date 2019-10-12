@@ -1,3 +1,5 @@
 config.py
 .DS_store
 database.ini
+.ipynb_checkpoints
+__pycache__
